@@ -10,12 +10,12 @@ I'm a **Web Developer** with a passion for creating visually appealing and respo
   - Gained hands-on experience with Adobe Photoshop.
  
     
-  - - **Graphic Designer** at **DK Printers (2023 - 2024)**
+- **Graphic Designer** at **DK Printers (2023 - 2024)**
   - Created impactful visual materials for branding and marketing.
   - Worked on large-scale design projects and met tight deadlines.
 
  
-  - - **Graphic Designer** at **Maha Print & Signs (2022 - 2023)**
+- **Graphic Designer** at **Maha Print & Signs (2022 - 2023)**
   - Designed brochures, banners, and posters.
   - Maintained brand consistency and collaborated with marketing teams.
   - Managed large-format printing projects.
