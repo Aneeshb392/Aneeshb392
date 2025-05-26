@@ -1,63 +1,82 @@
-# Hi, I'm Aneesh B 👋  
-### **A Fusion of Code 🖥️, Pixels 🎨, and Cybersecurity 🔒**  
-*"Turning coffee ☕ into responsive websites, stunning visuals, and secure systems."*  
+<h1 align="center">Hi, I'm Aneesh B 👋</h1>
+<h3 align="center"><em>A Fusion of Code 🖥️, Pixels 🎨, and Cybersecurity 🔒</em></h3>
+<p align="center">💡 <em>"Turning coffee ☕ into responsive websites, stunning visuals, and secure systems."</em></p>
 
 ---
 
-## 🚀 **About Me**  
-I’m a **full-stack web developer** and **graphic design wizard** with a secret weapon: **cybersecurity expertise**.  
-- 🌟 **I build things that look _amazing_ and work _flawlessly_**.  
-- 🎯 **My superpower**: Blending pixel-perfect design with bulletproof code.  
-- 🔥 **Obsessed with** solving complex problems while making users go *"Whoa, that’s smooth!"*  
+## 🚀 About Me
+
+I’m a **full-stack web developer**, **graphic design wizard**, and **cybersecurity enthusiast**  
+who loves crafting seamless, secure, and visually stunning digital experiences.  
+
+- 🌟 I **build things** that look _amazing_ and work _flawlessly_  
+- 🎯 My superpower: Blending **pixel-perfect design** with **bulletproof code**  
+- 🧠 Passionate about **problem-solving**, creative UX, and **security-first** development  
 
 ---
 
-## ⚡ **Skills Bomb**  
-| **Web Sorcery**       | **Design Magic**       | **Cyber Ninja Tools**  | **Extra Powers**        |  
-|------------------------|-------------------------|------------------------|-------------------------|  
-| HTML5/CSS3 ✨          | Photoshop 🖌️           | Linux 🐧              | Git/GitHub 🗂️          |  
-| JavaScript (ES6+) 🌈  | CorelDRAW 🎨           | Bash Scripting ⚙️    | REST APIs 🌐           |  
-| Bootstrap 5 🎯         | UI/UX Principles 🔍    | Network Security 🛡️  | FiveM Development 🎮   |  
-| MERN Stack 🚀          | Large-Format Printing 🖨️ | Pen Testing Basics 🔐 | Adobe Suite 🏆         |  
+## ⚡ Skills Bomb 💥
+
+| 💻 **Web Sorcery** | 🎨 **Design Magic** | 🛡️ **Cyber Ninja Tools** | 🧰 **Extra Powers** |
+|-------------------|---------------------|---------------------------|---------------------|
+| HTML5/CSS3 ✨       | Photoshop 🖌️         | Linux 🐧                  | Git/GitHub 🗂️        |
+| JavaScript (ES6+) 🌈 | CorelDRAW 🎨         | Bash Scripting ⚙️         | REST APIs 🌐         |
+| Bootstrap 5 🎯      | UI/UX Principles 🔍  | Network Security 🛡️      | FiveM Dev 🎮         |
+| MERN Stack 🚀       | Large Format Printing 🖨️ | Pen Testing Basics 🔐     | Adobe Suite 🏆       |
 
 ---
 
-## 💼 **Career Highlights**  
-### **🎨 Graphic Design Odyssey**  
-- **Crafted 100+ jaw-dropping designs** for packaging, banners, and branding campaigns  
-- **Led large-format printing projects** – because size *DOES* matter (when it’s 10ft tall!)  
-- **Ghost-designed** marketing materials that boosted client sales by up to 40% 📈  
+## 🏆 Career Highlights
 
-### **👨💻 FiveM Developer @ Insanity Mallu Roleplay**  
-- **Built immersive gameplay scripts** for 5000+ daily players  
-- **Optimized server performance** until it ran smoother than butter 🧈  
+### 🎨 **Graphic Design Odyssey**
+- ✨ Created **100+ stunning designs** – packaging, banners, branding  
+- 🖨️ Led **large-format printing projects** – when 10ft designs steal the show  
+- 🔥 Boosted **client sales by 40%** with high-impact visuals  
 
----
-
-## 🌱 **Currently Brewing**  
-- **Mastering MERN stack** → Building apps that’ll make React say *"Damn, that’s clean!"*  
-- **Exploring Three.js** → Because 3D web experiences are the future 🕶️  
-- **Hacking CTF challenges** → Because who doesn’t love a good digital heist? 🔓  
+### 👨‍💻 **FiveM Developer @ Insanity Mallu Roleplay**
+- 🎮 Built immersive **custom gameplay scripts** for 5K+ daily users  
+- ⚙️ Optimized server performance to run **smoother than butter** 🧈  
 
 ---
 
-## 🏆 **Why Work With Me?**  
-1. **Creative + Technical = 💥** – I speak both "designer" and "developer" fluently  
-2. **Deadline Slayer** – Delivered 15+ projects 2 days early (with extra sparkle ✨)  
-3. **Pixel Psychic** – I see your vision before you finish describing it  
-4. **Security-First Mindset** – Your project stays safer than Fort Knox 🔐  
+## 🌱 Currently Brewing
+
+🧪 **Learning & Building**  
+- 📚 **Mastering MERN Stack** → *Apps that make React say “Whoa!”*  
+- 🎮 Exploring **Three.js** → *Crafting 3D web magic*  
+- 🔓 Hacking **CTF Challenges** → *Digital heists = brain gym*  
 
 ---
 
-## 📫 **Let’s Create Magic!**  
-[![Email](https://img.shields.io/badge/📧_Email-aneeshb392@gmail.com-FF0000?style=flat)](mailto:aneeshb392@gmail.com)  
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Aneeshb392-181717?style=flat)](https://github.com/Aneeshb392)  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio!-brightgreen?style=flat)](https://aneeshb.ct.ws/?i=1)  
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@crazy_notics-E4405F?style=flat)](https://instagram.com/crazy_notics)  
+## 💡 Why Work With Me?
+
+✨ I bring the **perfect fusion** of logic & creativity:
+
+| ✅ Trait | 💬 Description |
+|--------|----------------|
+| 🎨 Creative + 👨‍💻 Technical | I speak both “designer” and “developer” fluently |
+| ⏱️ Deadline Slayer | Delivered 15+ projects early (with sparkle ✨) |
+| 🔮 Pixel Psychic | I get your vision before you even finish describing it |
+| 🔐 Security-First | I build **Fort Knox-level secure systems** |
 
 ---
 
-### **🔥 Fun Fact:**  
-I once debugged a CSS animation nightmare **while skydiving** (okay, maybe just in my head 🪂).  
+## 📫 Let’s Create Magic Together
 
-**Last line of code written**: `while(!succeed) { tryAgain(); }` 💻  
+<p align="center">
+  <a href="mailto:aneeshb392@gmail.com"><img src="https://img.shields.io/badge/📧 Email-aneeshb392@gmail.com-FF0000?style=for-the-badge"></a>
+  <a href="https://github.com/Aneeshb392"><img src="https://img.shields.io/badge/💻 GitHub-Aneeshb392-181717?style=for-the-badge"></a>
+  <a href="https://aneeshb.ct.ws/?i=1"><img src="https://img.shields.io/badge/🌐 Portfolio-brightgreen?style=for-the-badge"></a>
+  <a href="https://instagram.com/crazy_notics"><img src="https://img.shields.io/badge/📸 Instagram-@crazy_notics-E4405F?style=for-the-badge"></a>
+</p>
+
+---
+
+### 🔥 Fun Fact  
+> I once debugged a CSS animation nightmare **while skydiving** (okay, maybe just in my head 🪂).  
+
+---
+
+### 💻 Last line of code written:
+```js
+while(!succeed) { tryAgain(); }
