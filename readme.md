@@ -52,7 +52,7 @@ I’m a **full-stack web developer** and **graphic design wizard** with a secret
 ## 📫 **Let’s Create Magic!**  
 [![Email](https://img.shields.io/badge/📧_Email-aneeshb392@gmail.com-FF0000?style=flat)](mailto:aneeshb392@gmail.com)  
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Aneeshb392-181717?style=flat)](https://github.com/Aneeshb392)  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon!-brightgreen?style=flat)](#)  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio!-brightgreen?style=flat)](https://aneeshb.ct.ws/?i=1)  
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@crazy_notics-E4405F?style=flat)](https://instagram.com/crazy_notics)  
 
 ---
