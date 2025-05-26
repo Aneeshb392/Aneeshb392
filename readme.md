@@ -15,6 +15,15 @@ who loves crafting seamless, secure, and visually stunning digital experiences.
 
 ---
 
+## 🧠 Founder of **The Digital Chaya Tech**
+
+🎨 A design-first startup blending **visual magic** with **technical brilliance**  
+🚀 We create **brand identities, digital experiences**, and **print visuals** that resonate  
+
+📸 Follow us on Instagram → [@chaya.tech](https://instagram.com/chaya.tech)
+
+---
+
 ## ⚡ Skills Bomb 💥
 
 | 💻 **Web Sorcery** | 🎨 **Design Magic** | 🛡️ **Cyber Ninja Tools** | 🧰 **Extra Powers** |
@@ -68,6 +77,7 @@ who loves crafting seamless, secure, and visually stunning digital experiences.
   <a href="https://github.com/Aneeshb392"><img src="https://img.shields.io/badge/💻 GitHub-Aneeshb392-181717?style=for-the-badge"></a>
   <a href="https://aneeshb.ct.ws/?i=1"><img src="https://img.shields.io/badge/🌐 Portfolio-brightgreen?style=for-the-badge"></a>
   <a href="https://instagram.com/crazy_notics"><img src="https://img.shields.io/badge/📸 Instagram-@crazy_notics-E4405F?style=for-the-badge"></a>
+  <a href="https://instagram.com/chaya.tech"><img src="https://img.shields.io/badge/🎨 The%20Digital%20Chaya%20Tech-@chaya.tech-8A2BE2?style=for-the-badge"></a>
 </p>
 
 ---
